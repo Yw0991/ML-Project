@@ -15,7 +15,7 @@ Libraries:
 - Numpy & Pandas: For numerical computations and data manipulation.
 - Matplotlib & Seaborn: For visualizing data through graphs and heatmaps.
 - Scikit-learn: For data preprocessing, model training, and evaluation.
-- 
+  
 Results Overview
 
 Our models predict "TotalSleep" and "Dreaming" with notable accuracy, utilizing Mean Absolute Percentage Error (MAPE) and Root Mean Squared Error (RMSE) for evaluation. Key outcomes include:
